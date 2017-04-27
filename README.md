@@ -1,7 +1,7 @@
 # pure-copyright
 
-[![NPM version](https://img.shields.io/npm/v/copyright.svg?style=flat)](https://npmjs.com/package/pure-copyright) 
-[![NPM downloads](https://img.shields.io/npm/dm/copyright.svg?style=flat)](https://npmjs.com/package/pure-copyright) 
+[![NPM version](https://img.shields.io/npm/v/pure-copyright.svg?style=flat)](https://npmjs.com/package/pure-copyright) 
+[![NPM downloads](https://img.shields.io/npm/dm/pure-copyright.svg?style=flat)](https://npmjs.com/package/pure-copyright) 
 
 > pure JavaScript version of [copyright](https://github.com/absentik/copyright)
 
