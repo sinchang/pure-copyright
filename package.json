@@ -1,6 +1,6 @@
 {
   "name": "pure-copyright",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "add a reference to the source in buffer when copying",
   "repository": {
     "url": "sinchang/pure-copyright",

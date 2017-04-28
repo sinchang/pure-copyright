@@ -129,7 +129,7 @@ export default class Copyright {
   }
 
   on(type, callback) {
-    if (type !== 'beforeCopy' && type !== 'afterCopy') {
+    if (type !== 'beforeCopy' || type !== 'afterCopy') {
       throw new Error(`event name must be 'beforeCopy' or 'afterCopy'`)
     }
 
